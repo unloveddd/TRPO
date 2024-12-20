@@ -1,3 +1,4 @@
+// Простая структура информационной системы для больницы с использованием Windows Forms
 using System;
 using System.Collections.Generic;
 using System.Drawing;
